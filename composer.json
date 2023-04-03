@@ -10,6 +10,7 @@
     ],
     "homepage": "https://github.com/orumad/laravel-spanish-validator",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Daniel Muñoz",
